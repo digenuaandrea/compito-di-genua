@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+//che bel compito
 Void main ()
 {
      //i è la variabile da incrementare
